@@ -1,0 +1,2 @@
+youtube.com##.ytp-ad-module
+youtube.com##.video-ads
