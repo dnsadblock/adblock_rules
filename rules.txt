@@ -2,3 +2,4 @@ youtube.com##.ytp-ad-module
 youtube.com##.video-ads
 youtube.com##.ytp-ad-action-interstitial
 youtube.com##.ytp-error
+youtube.com##.ad-showing
