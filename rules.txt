@@ -3,3 +3,4 @@ youtube.com##.video-ads
 youtube.com##.ytp-ad-action-interstitial
 youtube.com##.ytp-error
 youtube.com##.ad-showing
+youtube.com##.ytd-display-ad-renderer
