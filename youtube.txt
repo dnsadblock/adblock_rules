@@ -1,0 +1,1 @@
+youtube.com,youtube-nocookie.com##+md(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
