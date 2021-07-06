@@ -1,1 +1,1 @@
-zkillboard.com###otherBannerDiv
+zkillboard.com###otherBannerDiv,.qc-cmp2-container
