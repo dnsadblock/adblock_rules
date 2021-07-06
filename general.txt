@@ -1,1 +1,1 @@
-zkillboard.com##otherBannerDiv.centered
+zkillboard.com###otherBannerDiv
